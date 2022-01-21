@@ -1,0 +1,62 @@
+@media(max-width: 1024px) {
+    .hero__title {
+        font-size: 50px;
+    }
+}
+
+
+@media(max-width: 768px) {
+    .hero__title {
+        font-size: 40px;
+    }
+
+    .service__list {
+        font-size: 27px;
+    } 
+}
+
+
+@media(max-width: 568px) {
+    .header__nav,
+    .header__button {
+        display: none;
+    }
+    
+    .header__menu-btn {
+        display: block;
+    }
+
+    .about {
+        flex-direction: column;
+    }
+
+    .hero__title {
+        font-size: 30px;
+    }
+
+    .service {
+        flex-direction: column;
+    }
+
+    .service__content {
+        width: 90%;
+    }
+
+    .service__list {
+        font-size: 25px;
+    }
+
+    .showcase {
+        flex-direction: column;
+        
+    }  
+    
+    .showcase__content {
+        width: 90%;
+    }
+
+    .testi {
+        flex-direction: column;
+    }
+}
+
