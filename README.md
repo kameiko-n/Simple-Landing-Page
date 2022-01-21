@@ -6,4 +6,4 @@ Used HTML, CSS
 
 <img src='preview.png'>
 
-[Demo](link)
+[Demo]( https://kameiko-n.github.io/Simple-Landing-Page/)
